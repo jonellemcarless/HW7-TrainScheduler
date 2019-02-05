@@ -1,0 +1,30 @@
+body {
+    background-image: url("background1.jpg");
+    max-height: 100%;
+}
+
+.panel{
+    font-family: 'Muli', sans-serif;
+}
+
+.jumbotron {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Staatliches', cursive;
+}
+
+.btn{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Staatliches', cursive;
+}
+
+button:hover,
+  input[type="submit"]:hover {
+    background-color: whitesmoke;
+    color: black;
+  }
+
+  table {
+      background-color: whitesmoke;
+  }
